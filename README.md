@@ -1,3 +1,3 @@
 # Personal
 
-This is for privat use
+This is for private use
